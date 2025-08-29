@@ -1,11 +1,11 @@
 👋 Hi, I’m John Waldron (JDW)
 
-⚡ From mainframes to multisig — I’m building my career at the intersection of legacy engineering, modern QA and Bitcoin’s frontier.  
+⚡ From mainframes to multisig: QA engineer building proof-of-work...  
 
 🌱 Currently:  
-- Transitioning from 7+ years as an IBM MQ Lab Advocate (z/OS, banking infra) into full-time Bitcoin engineering.  
+- Transitioning from 7+ years as an IBM MQ Lab Advocate (z/OS, legacy infra) into full-time engineering.  
 - Focused on **Quality Assurance, testing, and documentation** across various projects.  
-- Learning all sorts, right now mainly Python/Playwright/Rust experience.
+- Learning all sorts in 2025, right now mainly in Python/Playwright/Rust/LLM domains...
 
 🔭 Proof of Work so far:  
 - ₿OSS Program (Chaincode Labs) — active in Bitcoin Core scripting & test challenges.  
@@ -13,7 +13,7 @@
 - Published advocacy on Bitcoin nation-state adoption (Ireland GE2024).  
 - Contributor at BitVocation, Crypto Academy, BitVault and Bitcoin open-source discussions.  
 
-👯 Looking to collaborate on:  
+👯 Looking to work and collaborate on:  
 - QA/testing harnesses for projects (Python, Playwright, Bitcoin, Swift, Rust,).  
 - Documentation, test vectors, ci/cd, and onboarding guides.  
 - Developer advocacy and education — translating complex systems into clear narratives.  
