@@ -11,7 +11,8 @@
 - ₿OSS Program (Chaincode Labs) — active in Bitcoin Core scripting & test challenges.  
 - Base58 Bitcoin Transactions Protocol Course — hand-parsing transactions, P2SH/P2WSH scripts.  
 - Published advocacy on Bitcoin nation-state adoption (Ireland GE2024).  
-- Contributor at BitVocation, Crypto Academy, BitVault and Bitcoin open-source discussions.  
+- Operations Support for @BitVocation, Anthony Pompilano's Crypto Academy alumni, BitVault Conference Rep.
+- NOTE: Ongoing Projects and Certs linked at bottom planned  
 
 👯 Looking to work and collaborate on:  
 - QA/testing harnesses for projects (Python, Playwright, Bitcoin, Swift, Rust,).  
