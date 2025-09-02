@@ -24,6 +24,9 @@
 - [Twitter/X](https://twitter.com/johndtwaldron)  
 
 ⚡ Fun fact:  
-I reinterpret “IBM” as “Irish ₿itcoin Man” — marrying my past with my future.  
+I reinterpret “IBM” as “Irish ₿itcoin Man” — marrying my past with my future. 
+
+PoW Rep Links and Accredations as IrishBitcoin Man => 
+[fill in here] 
 
 ---
