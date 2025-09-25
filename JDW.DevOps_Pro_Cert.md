@@ -5,10 +5,13 @@
 Bridging the past to meet the future: taking enterprise messaging/MQ discipline into
 cloud-native, test-first, automated delivery with transparent proof-of-work you can inspect.
 
-- 🔗 **Coursera Certificate (verify):** <!-- update if needed -->
-  https://coursera.org/verify/professional-cert/70EALTLKZVDV
+- 🔗 **Coursera Certificate URL:** <!-- update if needed -->
+  [Coursea Cert URL](https://coursera.org/verify/professional-cert/70EALTLKZVDV)
 - 🧵 **LinkedIn post:** <!-- add your public post URL -->
-  [<LINKEDIN_POST_URL_HERE>](https://www.linkedin.com/posts/johndtwaldron_devops-ci-kubernetes-activity-7377097670714163201-x6L3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABU-Qp4BtdglKBjC9FI_b6dDeW8j4nZl2Rs)
+  [LINKEDIN_POST_URL](https://www.linkedin.com/posts/johndtwaldron_devops-ci-kubernetes-activity-7377097670714163201-x6L3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABU-Qp4BtdglKBjC9FI_b6dDeW8j4nZl2Rs)
+- 🔗 **Coursera Certificate.PDF:** <!-- update if needed -->
+  [Specialisation PDF]()
+
 ---
 
 ## TL;DR — What I built & automated
@@ -42,12 +45,12 @@ Key Links to project repos involved from each course row and section below.
 | 7 | **Python for Data Science, AI & Development** | Python fundamentals, packaging, venvs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
 | 8 | **Developing AI Applications with Python and Flask** | Flask app structure, blueprints, config, APIs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
 | 9 | **Introduction to Containers with Docker, Kubernetes & OpenShift** | Dockerfiles, images, Pods/Deployments/Services, Routes | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
-| 10 | **Application Development using Microservices & Serverless** | Microservice boundaries, REST, eventing, FaaS fit | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
-| 11 | **Introduction to Test & Behavior-Driven Development** | Nose/pytest, BDD mindset, coverage | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
+| 10 | **Application Development using Microservices & Serverless** | Microservice boundaries, REST, eventing, FaaS fit | <ADD_LINK> | https://github.com/johndtwaldron/IBM.App.Dev.Microserv.serverless-JDW-POW | <ADD_BADGE> |
+| 11 | **Introduction to Test & Behavior-Driven Development** | Nose/pytest, BDD mindset, coverage | <ADD_LINK> | https://github.com/johndtwaldron/IBM-tdd-bdd-final-project-JDW-PoW | <ADD_BADGE> |
 | 12 | **Continuous Integration & Continuous Delivery (CI/CD)** | Pipelines, artifact promotion, approvals | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
 | 13 | **Application Security for Developers & DevOps Professionals** | Threat modeling, SAST/DAST, secrets, headers/CORS | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
 | 14 | **Monitoring & Observability for DevOps** | Logs/metrics/traces, alerts, SLO-based dashboards | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
-| 15 | **DevOps Capstone Project** | End-to-end PoW: microservice + K8s + Tekton CD | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
+| 15 | **DevOps Capstone Project** | End-to-end PoW: microservice + K8s + Tekton CD | <ADD_LINK> | https://github.com/johndtwaldron/aolwx-devops-capstone-JDW-PoW | <ADD_BADGE> |
 
 > _The list above mirrors the 15-course sidebar shown on the certificate._
 
