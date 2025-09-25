@@ -12,9 +12,10 @@
 - Base58 Bitcoin Transactions Protocol Course — hand-parsing transactions, P2SH/P2WSH scripts.  
 - Published advocacy on Bitcoin nation-state adoption (Ireland GE2024).  
 - Operations Support for @BitVocation, Anthony Pompilano's Crypto Academy alumni, BitVault Conference Rep.
+- BitVault Conference Rep (Dublin & Glasgow 2025) & SMM work
 - NOTE: Ongoing Projects and Certs linked at bottom planned  
 
-👯 Looking to work and collaborate on:  
+Seeking work and collaboration on:  
 - QA/testing harnesses for projects (Python, Playwright, Bitcoin, Swift, Rust,).  
 - Documentation, test vectors, ci/cd, and onboarding guides.  
 - Developer advocacy and education — translating complex systems into clear narratives.  
