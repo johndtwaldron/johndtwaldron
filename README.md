@@ -27,7 +27,12 @@
 ⚡ Fun fact:  
 I reinterpret “IBM” as “Irish ₿itcoin Man” — marrying my past with my future. 
 
+---
+
 PoW Rep Links and Accredations as IrishBitcoin Man => 
-[fill in here] 
+
+## PoW Repo / Accreditations as IrishBitcoin Man
+
+- 📚 **IBM DevOps & Software Engineering Professional Certificate** — [Proof-of-Work overview & links](./JDW.DevOps_Pro_Cert.md)
 
 ---
