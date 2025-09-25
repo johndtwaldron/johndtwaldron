@@ -50,15 +50,8 @@ Key Links to project repos involved from each course row and section below.
 | 12 | **Continuous Integration & Continuous Delivery (CI/CD)** | Pipelines, artifact promotion, approvals | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
 | 13 | **Application Security for Developers & DevOps Professionals** | Threat modeling, SAST/DAST, secrets, headers/CORS | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
 | 14 | **Monitoring & Observability for DevOps** | Logs/metrics/traces, alerts, SLO-based dashboards | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
-| 15 | **DevOps Capstone Project** | End-to-end PoW: microservice + K8s + Tekton CD | <ADD_LINK> | https://github.com/johndtwaldron/aolwx-devops-capstone-JDW-PoW | <ADD_BADGE> |
+| 15 | **DevOps Capstone Project** | End-to-end PoW: microservice + K8s + Tekton CD | <ADD_LINK> | [DevOps-Capstone-Repo](https://github.com/johndtwaldron/aolwx-devops-capstone-JDW-PoW) | <ADD_BADGE> |
 
 > _The list above mirrors the 15-course sidebar shown on the certificate._
 
 ---
-
-## Capstone — What’s in the repo
-
-**Project:** Accounts microservice on OpenShift with Tekton CD.  
-**Representative repo:** <ADD_CAPSTONE_REPO_URL>
-
-**Pipeline flow**
