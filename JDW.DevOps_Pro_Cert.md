@@ -10,7 +10,7 @@ cloud-native, test-first, automated delivery with transparent proof-of-work you 
 - 🧵 **LinkedIn post:** <!-- add your public post URL -->
   [LINKEDIN_POST_URL](https://www.linkedin.com/posts/johndtwaldron_devops-ci-kubernetes-activity-7377097670714163201-x6L3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABU-Qp4BtdglKBjC9FI_b6dDeW8j4nZl2Rs)
 - 🔗 **Coursera Certificate.PDF:** <!-- update if needed -->
-  [![IBM DevOps & Software Engineering Certificate](JDW-Badges/JDW.IrishBitcoinMan.DevOps_Cert.png)](JDW-Certs/JDW.IrishBitcoinMan.DevOps-Cert.pdf)
+  [![IBM DevOps & Software Engineering Certificate](JDW-Badges/0.JDW.IrishBitcoinMan.DevOps_Cert.png)](JDW-Certs/0.JDW.IrishBitcoinMan.DevOps-Cert.pdf)
 
 ---
 
@@ -56,5 +56,5 @@ Key Links to project repos involved from each course row and section below.
 
 ---
 
-  ![IBM DevOps & Software Engineering Credly Badge](JDW-Badges/ibm-devops-and-software-engineering-professional-ce.png)
-  [📄 IBM DevOps & Software Engineering — Credly Cert (PDF)](JDW-Certs/IBMDesign20250926-32-l73wo5.pdf)
+  ![IBM DevOps & Software Engineering Credly Badge](0.JDW-Badges/ibm-devops-and-software-engineering-professional-ce.png)
+  [📄 IBM DevOps & Software Engineering — Credly Cert (PDF)](JDW-Certs/0.IBMDesign20250926-32-l73wo5.pdf)
