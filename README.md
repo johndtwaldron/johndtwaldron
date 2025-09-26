@@ -1,4 +1,4 @@
-👋 Hi, I’m John Waldron (JDW)
+👋 Hi, I’m John Waldron (JDW: MA,MSc)
 
 ⚡ From mainframes to multisig: QA engineer building proof-of-work...  
 
@@ -11,7 +11,8 @@
 - ₿OSS Program (Chaincode Labs) — active in Bitcoin Core scripting & test challenges.  
 - [Base58 Bitcoin Transactions Protocol Course Cert](https://ude.my/UC-d2ff4ec3-61b3-41c7-90c5-837e10508e9a) — hand-parsing transactions, P2SH/P2WSH scripts.  
 - Published advocacy on Bitcoin nation-state adoption (Ireland GE2024).  
-- Operations Support for @BitVocation, Anthony Pompilano's Crypto Academy alumni, BitVault Conference Rep.
+- Operations Support for @BitVocation, 
+- Anthony Pompilano's Crypto Academy alumni
 - BitVault Conference Rep (Dublin & Glasgow 2025) & SMM work
 - NOTE: Ongoing Projects and Certs linked at bottom planned  
 
@@ -39,3 +40,6 @@ PoW Rep Links and Accredations as IrishBitcoin Man =>
 
 
 ---
+
+# <book emoji> Education 
+[ISTQB Software Testing Foundation Certificate - 2016](https://www.linkedin.com/company/357877?trk=prof-certification-org_name&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BAXOHsn7BQWKhcGet%2B7VwIA%3D%3D)
