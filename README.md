@@ -34,7 +34,7 @@ PoW Rep Links and Accredations as IrishBitcoin Man =>
 ## PoW Repo / Accreditations as IrishBitcoin Man
 
 - 📚 **IBM DevOps & Software Engineering Professional Certificate** — [Proof-of-Work overview & links](./JDW.DevOps_Pro_Cert.md)
-- 📚 **LambdaTest Playwright 101 Professional Certificate** — [LMBT-PW-101///](///md)
+- 📚 **LambdaTest Playwright 101 Professional Certificate** — [LMBT-PW-101-Repo](https://github.com/johndtwaldron/playwright-101-lambdatest-JDW)
 - [Credly Proof of Work:](https://www.credly.com/users/john-waldron)
 
 
