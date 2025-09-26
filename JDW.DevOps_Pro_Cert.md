@@ -38,20 +38,20 @@ Key Links to project repos involved from each course row and section below.
 
 | # | Course | What I practiced / delivered | Course URL | Repo / PoW | Badge / Cert |
 |---|---|---|---|---|---|
-| 1 | **Introduction to DevOps** | DevOps culture, CALMS, value streams, SLOs/SLIs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
-| 2 | **Introduction to Cloud Computing** | IaaS/PaaS/SaaS, regions/zones, shared responsibility | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
-| 3 | **Introduction to Agile Development and Scrum** | Scrum roles/artifacts, user stories, Kanban flows | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
+| 1 | **Introduction to DevOps** | DevOps culture, CALMS, value streams, SLOs/SLIs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [DevOps-Badge-PNG](JDW-Badges/introduction-to-devops.png) |
+| 2 | **Introduction to Cloud Computing** | IaaS/PaaS/SaaS, regions/zones, shared responsibility | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [DevOps-Badge-PNG](JDW-Badges/introduction-to-devops.png) |
+| 3 | **Introduction to Agile Development and Scrum** | Scrum roles/artifacts, user stories, Kanban flows | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [Agile-Badge-PNG](JDW-Badges/introduction-to-agile-development-and-scrum.png) |
 | 4 | **Introduction to Software Engineering** | Requirements → design → testing; SDLC trade-offs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [SoftEng-Badge-PNG](JDW-Badges/software-engineering-essentials1.png) |
 | 5 | **Getting Started with Git and GitHub** | Branch/PR flows, protected branches, code reviews | <ADD_LINK> | [Git-Intro-JDW-REPO](https://github.com/johndtwaldron/jbbmo-Introduction-to-Git-and-GitHub) | <ADD_BADGE> |
-| 6 | **Hands-on Intro to Linux Commands & Shell Scripting** | CLI, pipes/filters, Bash automation | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
-| 7 | **Python for Data Science, AI & Development** | Python fundamentals, packaging, venvs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
+| 6 | **Hands-on Intro to Linux Commands & Shell Scripting** | CLI, pipes/filters, Bash automation | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [Linux-Badge-PNG](JDW-Badges/hands-on-intro-to-linux-commands-and-shell-scripting.png) |
+| 7 | **Python for Data Science, AI & Development** | Python fundamentals, packaging, venvs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [PyDS-Badge-PNG](JDW-Badges/python-for-data-science-ai-and-development.png) |
 | 8 | **Developing AI Applications with Python and Flask** | Flask app structure, blueprints, config, APIs | <ADD_LINK> | [](https://github.com/johndtwaldron/oaqjp-final-project-emb-ai) | <ADD_BADGE> |
 | 9 | **Introduction to Containers with Docker, Kubernetes & OpenShift** | Dockerfiles, images, Pods/Deployments/Services, Routes | <ADD_LINK> | [K8-JDW-REPO](https://github.com/johndtwaldron/IBM-guestbook-k8s-lab-JDW-PoW) | [K8-Badge-PNG](JDW-Badges/containers-kubernetes-essentials1.png) |
-| 10 | **Application Development using Microservices & Serverless** | Microservice boundaries, REST, eventing, FaaS fit | <ADD_LINK> | [Microserv-JDW-REPO](https://github.com/johndtwaldron/IBM.App.Dev.Microserv.serverless-JDW-POW) | <ADD_BADGE> |
-| 11 | **Introduction to Test & Behavior-Driven Development** | Nose/pytest, BDD mindset, coverage | <ADD_LINK> | [tdd-bdd-JDW-Repo](https://github.com/johndtwaldron/IBM-tdd-bdd-final-project-JDW-PoW) | <ADD_BADGE> |
-| 12 | **Continuous Integration & Continuous Delivery (CI/CD)** | Pipelines, artifact promotion, approvals | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
-| 13 | **Application Security for Developers & DevOps Professionals** | Threat modeling, SAST/DAST, secrets, headers/CORS | <ADD_LINK> | [DevSecOps-JDW-REPO](https://github.com/johndtwaldron/graphy_server) | <ADD_BADGE> |
-| 14 | **Monitoring & Observability for DevOps** | Logs/metrics/traces, alerts, SLO-based dashboards | <ADD_LINK> | <ADD_REPO_OR_NOTES> | <ADD_BADGE> |
+| 10 | **Application Development using Microservices & Serverless** | Microservice boundaries, REST, eventing, FaaS fit | <ADD_LINK> | [Microserv-JDW-REPO](https://github.com/johndtwaldron/IBM.App.Dev.Microserv.serverless-JDW-POW) | [Flask-AI-Badge-PNG](JDW-Badges/python-project-for-ai-and-application-development.png) |
+| 11 | **Introduction to Test & Behavior-Driven Development** | Nose/pytest, BDD mindset, coverage | <ADD_LINK> | [tdd-bdd-JDW-Repo](https://github.com/johndtwaldron/IBM-tdd-bdd-final-project-JDW-PoW) | [TDD-Badge-PNG](JDW-Badges/introduction-to-test-driven-development.1.png) |
+| 12 | **Continuous Integration & Continuous Delivery (CI/CD)** | Pipelines, artifact promotion, approvals | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [DevSecOps-Badge-PNG](JDW-Badges/application-security-for-developers-and-devops.png) |
+| 13 | **Application Security for Developers & DevOps Professionals** | Threat modeling, SAST/DAST, secrets, headers/CORS | <ADD_LINK> | [DevSecOps-JDW-REPO](https://github.com/johndtwaldron/graphy_server) | [DevSecOps-Badge-PNG](JDW-Badges/application-security-for-developers-and-devops.png) |
+| 14 | **Monitoring & Observability for DevOps** | Logs/metrics/traces, alerts, SLO-based dashboards | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [Observability-Badge-PNG](JDW-Badges/monitoring-and-observability-for-development-and-de.png) |
 | 15 | **DevOps Capstone Project** | End-to-end PoW: microservice + K8s + Tekton CD | <ADD_LINK> | [DevOps-Capstone-JDW-Repo](https://github.com/johndtwaldron/aolwx-devops-capstone-JDW-PoW) | [Capstone-Badge-PNG](JDW-Badges/devops-capstone.png) |
 
 > _The list above mirrors the 15-course sidebar shown on the certificate._
