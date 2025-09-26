@@ -1,4 +1,5 @@
 # IBM DevOps & Software Engineering — Proof of Work (PoW)
+**[Specialisation from Coursea Link](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 
 **John Waldron — “IrishBitcoin Man”**
 
@@ -56,5 +57,6 @@ Key Links to project repos involved from each course row and section below.
 
 ---
 
-  ![IBM DevOps & Software Engineering Credly Badge](JDW-Badges/0.ibm-devops-and-software-engineering-professional-ce.png)
+  [Specialisation-Badge-PNG](JDW-Badges/0.ibm-devops-and-software-engineering-professional-ce.png)
+  [Applied-DevOps-Badge-PNG](JDW-Badges/00.ibm-applied-devops-engineering-professional-certifi.png)
   [📄 IBM DevOps & Software Engineering — Credly Cert (PDF)](JDW-Certs/0.IBMDesign20250926-32-l73wo5.pdf)
