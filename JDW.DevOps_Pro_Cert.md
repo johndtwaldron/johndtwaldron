@@ -64,5 +64,5 @@ Key Links to project repos involved from each course row and section below.
 ---
 
   ![IBM DevOps & Software Engineering Credly Badge](JDW-Badges/ibm-devops-and-software-engineering-professional-ce.png)
-  [![Credly Cert thumbnail](JDW-Badges/JDW-Certs/IBMDesign20250926-32-l73wo5.pdf)](JDW-Certs/IBMDesign20250926-32-l73wo5.pdf)
+  [📄 IBM DevOps & Software Engineering — Credly Cert (PDF)](JDW-Certs/IBMDesign20250926-32-l73wo5.pdf)
 
