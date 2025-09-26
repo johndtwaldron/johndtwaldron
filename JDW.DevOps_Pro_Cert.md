@@ -49,7 +49,7 @@ Key Links to project repos involved from each course row and section below.
 | 9 | **Introduction to Containers with Docker, Kubernetes & OpenShift** | Dockerfiles, images, Pods/Deployments/Services, Routes | <ADD_LINK> | [K8-JDW-REPO](https://github.com/johndtwaldron/IBM-guestbook-k8s-lab-JDW-PoW) | [K8-Badge-PNG](JDW-Badges/containers-kubernetes-essentials1.png) |
 | 10 | **Application Development using Microservices & Serverless** | Microservice boundaries, REST, eventing, FaaS fit | <ADD_LINK> | [Microserv-JDW-REPO](https://github.com/johndtwaldron/IBM.App.Dev.Microserv.serverless-JDW-POW) | [Flask-AI-Badge-PNG](JDW-Badges/python-project-for-ai-and-application-development.png) |
 | 11 | **Introduction to Test & Behavior-Driven Development** | Nose/pytest, BDD mindset, coverage | <ADD_LINK> | [tdd-bdd-JDW-Repo](https://github.com/johndtwaldron/IBM-tdd-bdd-final-project-JDW-PoW) | [TDD-Badge-PNG](JDW-Badges/introduction-to-test-driven-development.1.png) |
-| 12 | **Continuous Integration & Continuous Delivery (CI/CD)** | Pipelines, artifact promotion, approvals | <ADD_LINK> | <ADD_REPO_OR_NOTES> | /// |
+| 12 | **Continuous Integration & Continuous Delivery (CI/CD)** | Pipelines, artifact promotion, approvals | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [CI/CD-Badge-PNG](continuous-integration-continuous-delivery-ci-cd.1.png) |
 | 13 | **Application Security for Developers & DevOps Professionals** | Threat modeling, SAST/DAST, secrets, headers/CORS | <ADD_LINK> | [DevSecOps-JDW-REPO](https://github.com/johndtwaldron/graphy_server) | [DevSecOps-Badge-JPG](JDW-Badges/devsecops1757176289358.jpeg) |
 | 14 | **Monitoring & Observability for DevOps** | Logs/metrics/traces, alerts, SLO-based dashboards | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [Observability-Badge-PNG](JDW-Badges/monitoring-and-observability-for-development-and-de.png) |
 | 15 | **DevOps Capstone Project** | End-to-end PoW: microservice + K8s + Tekton CD | <ADD_LINK> | [DevOps-Capstone-JDW-Repo](https://github.com/johndtwaldron/aolwx-devops-capstone-JDW-PoW) | [Capstone-Badge-PNG](JDW-Badges/devops-capstone.png) |
@@ -65,6 +65,7 @@ Key Links to project repos involved from each course row and section below.
 [CI-CD-Badge-PNG](JDW-Badges/continuous-integration-and-delivery.png)                  <!-- add when uploaded -->
 
 ---
-  [![IBM DevOps & Software Engineering Credly Badge](JDW-Badges/ibm-devops-and-software-engineering-professional-ce.png)]
-  [![IBM DevOps & Software Engineering Credly Cert](JDW-Certs/IBMDesign20250926-32-l73wo5.pdf)]
+
+  ![IBM DevOps & Software Engineering Credly Badge](JDW-Badges/ibm-devops-and-software-engineering-professional-ce.png)
+  ![IBM DevOps & Software Engineering Credly Cert](JDW-Certs/IBMDesign20250926-32-l73wo5.pdf)
 
