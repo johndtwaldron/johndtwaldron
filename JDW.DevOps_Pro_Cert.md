@@ -35,7 +35,7 @@ Key Links to project repos involved from each course row and section below.
 > Table shows Course names, short outcomes, and links to work done:
 > **Course**, **Course URL**, **Repo/PoW**, **Badge/Cert**.
 
-| # | Course (linked) | Repo / PoW | Practiced / delivered (links to repo if present) | Badge |
+| # | Course (linked) | Practiced / delivered (links to repo if present) | Badge |
 |---|---|---|---|
 | 1 | [**Introduction to DevOps**](https://www.coursera.org/learn/intro-to-devops?specialization=devops-and-software-engineering) | DevOps culture; CALMS; value streams; SLOs/SLIs | [<img src="JDW-Badges/1.devops-essentials.2.png" alt="DevOps badge" height="50">](JDW-Badges/1.devops-essentials.2.png) |
 | 2 | [**Introduction to Cloud Computing**](https://www.coursera.org/learn/introduction-to-cloud?specialization=devops-and-software-engineering) | IaaS/PaaS/SaaS; regions/zones; shared responsibility | [<img src="JDW-Badges/2.introduction-to-cloud-computing.png" alt="Cloud badge" height="50">](JDW-Badges/2.introduction-to-cloud-computing.png) |
@@ -57,6 +57,6 @@ Key Links to project repos involved from each course row and section below.
 
 ---
 
-  [![Specialisation-Badge-PNG](JDW-Badges/0.ibm-devops-and-software-engineering-professional-ce.png)
-  [![Applied-DevOps-Badge-PNG](JDW-Badges/00.ibm-applied-devops-engineering-professional-certifi.png)
+  ![Specialisation-Badge-PNG](JDW-Badges/0.ibm-devops-and-software-engineering-professional-ce.png)
+  ![Applied-DevOps-Badge-PNG](JDW-Badges/00.ibm-applied-devops-engineering-professional-certifi.png)
   [📄 IBM DevOps & Software Engineering — Credly Cert (PDF)](JDW-Certs/0.IBMDesign20250926-32-l73wo5.pdf)
