@@ -36,13 +36,13 @@ Key Links to project repos involved from each course row and section below.
 
 | # | Course | What I practiced / delivered | Course URL | Repo / PoW | Badge / Cert |
 |---|---|---|---|---|---|
-| 1 | **Introduction to DevOps** | DevOps culture, CALMS, value streams, SLOs/SLIs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [DevOps-Badge-PNG](JDW-Badges/introduction-to-devops.png) |
+| 1 | **Introduction to DevOps** | DevOps culture, CALMS, value streams, SLOs/SLIs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [DevOps-Badge-PNG](JDW-Badges/devops-essentials.2.png) | 
 | 2 | **Introduction to Cloud Computing** | IaaS/PaaS/SaaS, regions/zones, shared responsibility | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [Cloud-Badge-PNG](JDW-Badges/introduction-to-cloud-computing.png) |
 | 3 | **Introduction to Agile Development and Scrum** | Scrum roles/artifacts, user stories, Kanban flows | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [Agile-Badge-PNG](JDW-Badges/introduction-to-agile-development-and-scrum.png) |
 | 4 | **Introduction to Software Engineering** | Requirements → design → testing; SDLC trade-offs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [SoftEng-Badge-PNG](JDW-Badges/software-engineering-essentials1.png) |
 | 5 | **Getting Started with Git and GitHub** | Branch/PR flows, protected branches, code reviews | <ADD_LINK> | [Git-Intro-JDW-REPO](https://github.com/johndtwaldron/jbbmo-Introduction-to-Git-and-GitHub) | [Git-Badge-PNG](JDW-Badges/git-and-github-essentials1.png) |
-| 6 | **Hands-on Intro to Linux Commands & Shell Scripting** | CLI, pipes/filters, Bash automation | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [Linux-Badge-PNG](JDW-Badges/hands-on-intro-to-linux-commands-and-shell-scripting.png) |
-| 7 | **Python for Data Science, AI & Development** | Python fundamentals, packaging, venvs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [PyDS-Badge-PNG](JDW-Badges/python-for-data-science-ai-and-development.png) |
+| 6 | **Hands-on Intro to Linux Commands & Shell Scripting** | CLI, pipes/filters, Bash automation | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [Linux-Badge-PNG](JDW-Badges/linux-commands-and-shell-essentials-v2.png) |
+| 7 | **Python for Data Science, AI & Development** | Python fundamentals, packaging, venvs | <ADD_LINK> | <ADD_REPO_OR_NOTES> | [PyDS-Badge-PNG](JDW-Badges/python-for-data-science-ai.png) |
 | 8 | **Developing AI Applications with Python and Flask** | Flask app structure, blueprints, config, APIs | <ADD_LINK> | [Final-project-ai-JDW-REPO](https://github.com/johndtwaldron/oaqjp-final-project-emb-ai) | [Flask-AI-Badge-PNG](JDW-Badges/python-project-for-ai-and-application-development.png) |
 | 9 | **Introduction to Containers with Docker, Kubernetes & OpenShift** | Dockerfiles, images, Pods/Deployments/Services, Routes | <ADD_LINK> | [K8-JDW-REPO](https://github.com/johndtwaldron/IBM-guestbook-k8s-lab-JDW-PoW) | [K8-Badge-PNG](JDW-Badges/containers-kubernetes-essentials1.png) |
 | 10 | **Application Development using Microservices & Serverless** | Microservice boundaries, REST, eventing, FaaS fit | <ADD_LINK> | [Microserv-JDW-REPO](https://github.com/johndtwaldron/IBM.App.Dev.Microserv.serverless-JDW-POW) | [Flask-AI-Badge-PNG](JDW-Badges/python-project-for-ai-and-application-development.png) |
@@ -53,13 +53,6 @@ Key Links to project repos involved from each course row and section below.
 | 15 | **DevOps Capstone Project** | End-to-end PoW: microservice + K8s + Tekton CD | <ADD_LINK> | [DevOps-Capstone-JDW-Repo](https://github.com/johndtwaldron/aolwx-devops-capstone-JDW-PoW) | [Capstone-Badge-PNG](JDW-Badges/devops-capstone.png) |
 
 > _The list above mirrors the 15-course sidebar shown on the certificate._
-
----
-[DevOps-Badge-PNG](JDW-Badges/introduction-to-devops.png)                <!-- if/when you add -->
-
-[Linux-Badge-PNG](JDW-Badges/hands-on-intro-to-linux-commands-and-shell-scripting.png)  <!-- add when uploaded -->
-
-[PyDS-Badge-PNG](JDW-Badges/python-for-data-science-ai-and-development.png)            <!-- add when uploaded -->
 
 ---
 
