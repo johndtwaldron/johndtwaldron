@@ -12,8 +12,6 @@ cloud-native, test-first, automated delivery with transparent proof-of-work you 
 - 🔗 **Coursera Certificate.PDF:** <!-- update if needed -->
   [![IBM DevOps & Software Engineering Certificate](JDW-Badges/JDW.IrishBitcoinMan.DevOps_Cert.png)](JDW-Certs/JDW.IrishBitcoinMan.DevOps-Cert.pdf)
 
-
-
 ---
 
 ## TL;DR — What I built & automated
@@ -60,12 +58,11 @@ Key Links to project repos involved from each course row and section below.
 [DevOps-Badge-PNG](JDW-Badges/introduction-to-devops.png)                <!-- if/when you add -->
 
 [Linux-Badge-PNG](JDW-Badges/hands-on-intro-to-linux-commands-and-shell-scripting.png)  <!-- add when uploaded -->
-[PyDS-Badge-PNG](JDW-Badges/python-for-data-science-ai-and-development.png)            <!-- add when uploaded -->
 
-[CI-CD-Badge-PNG](JDW-Badges/continuous-integration-and-delivery.png)                  <!-- add when uploaded -->
+[PyDS-Badge-PNG](JDW-Badges/python-for-data-science-ai-and-development.png)            <!-- add when uploaded -->
 
 ---
 
   ![IBM DevOps & Software Engineering Credly Badge](JDW-Badges/ibm-devops-and-software-engineering-professional-ce.png)
-  ![IBM DevOps & Software Engineering Credly Cert](JDW-Certs/IBMDesign20250926-32-l73wo5.pdf)
+  [![Credly Cert thumbnail](JDW-Badges/JDW.IrishBitcoinMan.DevOps_Cert.png)](JDW-Certs/IBMDesign20250926-32-l73wo5.pdf)
 
