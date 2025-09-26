@@ -22,7 +22,6 @@ Seeking work and collaboration on:
 
 💬 Reach me:  
 - [LinkedIn](https://www.linkedin.com/in/johndtwaldron/)  
-- [GitHub](https://github.com/johndtwaldron)  
 - [Twitter/X](https://twitter.com/johndtwaldron)  
 
 ⚡ Fun fact:  
@@ -35,5 +34,9 @@ PoW Rep Links and Accredations as IrishBitcoin Man =>
 ## PoW Repo / Accreditations as IrishBitcoin Man
 
 - 📚 **IBM DevOps & Software Engineering Professional Certificate** — [Proof-of-Work overview & links](./JDW.DevOps_Pro_Cert.md)
+- 📚 **LambdaTest Playwright 101 Professional Certificate** — [LMBT-PW-101///](///md)
+- [Credly Proof of Work:](https://www.credly.com/users/john-waldron)
+
+
 
 ---
