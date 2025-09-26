@@ -63,9 +63,8 @@ Key Links to project repos involved from each course row and section below.
 [PyDS-Badge-PNG](JDW-Badges/python-for-data-science-ai-and-development.png)            <!-- add when uploaded -->
 
 [CI-CD-Badge-PNG](JDW-Badges/continuous-integration-and-delivery.png)                  <!-- add when uploaded -->
-[DevSecOps-Badge-PNG](JDW-Badges/application-security-for-developers-and-devops.png)  <!-- add when uploaded -->
 
 ---
   [![IBM DevOps & Software Engineering Credly Badge](JDW-Badges/ibm-devops-and-software-engineering-professional-ce.png)]
-  [![IBM DevOps & Software Engineering Creddly Cert](JDW-Certs/IBMDesign20250926-32-l73wo5.pdf)]
+  [![IBM DevOps & Software Engineering Credly Cert](JDW-Certs/IBMDesign20250926-32-l73wo5.pdf)]
 
