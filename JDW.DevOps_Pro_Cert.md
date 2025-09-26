@@ -1,7 +1,6 @@
-# IBM DevOps & Software Engineering — Proof of Work (PoW)
+# IBM DevOps & Software Engineering — Proof of Work (PoW) for **John Waldron**
 **[Specialisation from Coursea Link](https://www.coursera.org/professional-certificates/devops-and-software-engineering)**
 
-**John Waldron — “IrishBitcoin Man”**
 
 Bridging the past to meet the future: taking enterprise messaging/MQ discipline into
 cloud-native, test-first, automated delivery with transparent proof-of-work you can inspect.
