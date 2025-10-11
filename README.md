@@ -3,7 +3,7 @@
 ⚡ From mainframes to multisig: QA engineer building proof-of-work...  
 
 🌱 Currently:  
-- 7+ years as an IBM MQ Lab Advocate (z/OS, legacy infra) into full-time engineering.  
+- 7+ years as an IBM MQ Lab Advocate (z/OS, legacy infra) full-time engineering.  
 - Focused on **Quality Assurance, testing, and documentation** across various projects.  
 - Learning all sorts in 2025, right now mainly in Python/Playwright/Rust/LLM domains...
 
